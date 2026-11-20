@@ -30,7 +30,7 @@ By the end you can:
 
 ## How to work through it
 
-- **Pace:** 18 weeks at 10–12 hours a week. See [`SCHEDULE.md`](../SCHEDULE.md).
+- **Pace:** 20 weeks at 10–12 hours a week. See [`SCHEDULE.md`](../SCHEDULE.md).
 - **Ratio:** about one third reading and lectures, two thirds labs. If you are
   short on time, cut optional reading, never the lab.
 - **Resource levels:** each module marks resources as **core** (do these),

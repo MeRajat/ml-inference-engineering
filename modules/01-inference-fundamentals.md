@@ -98,7 +98,7 @@ to 128. Mark the knee and explain it.
 
 ## Checkpoint
 
-You are ready for Module 2 when you can answer these without notes:
+You are ready for Module 1B when you can answer these without notes:
 
 1. How many bytes of KV cache does one token cost for your lab model, and why?
 2. Why does doubling batch size nearly double decode throughput up to a point, and what sets that point?

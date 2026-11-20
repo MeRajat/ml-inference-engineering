@@ -1,6 +1,6 @@
 # Module 3 — Serving engines and LLM inference systems
 
-**Weeks 4–6 · about 36 hours (14 reading, 22 labs)**
+**Weeks 6–8 · about 36 hours (14 reading, 22 labs)**
 
 ## Why this module
 

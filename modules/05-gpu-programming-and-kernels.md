@@ -1,6 +1,6 @@
 # Module 5 — GPU programming and custom kernels
 
-**Weeks 10–12 · about 36 hours (14 reading and lectures, 22 labs)**
+**Weeks 12–14 · about 36 hours (14 reading and lectures, 22 labs)**
 
 ## Why this module
 

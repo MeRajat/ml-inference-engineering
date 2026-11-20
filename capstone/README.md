@@ -1,6 +1,6 @@
 # Capstone
 
-**Weeks 17–18 · about 24 hours, plus whatever you choose to add**
+**Weeks 19–20 · about 24 hours, plus whatever you choose to add**
 
 Pick one project. Both combine every module. The first suits roles at voice and
 real-time companies; the second suits platform and research-engineering roles.

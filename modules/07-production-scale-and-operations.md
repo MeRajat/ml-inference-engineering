@@ -1,6 +1,6 @@
 # Module 7 — Production scale and operations
 
-**Weeks 15–16 · about 24 hours (9 reading, 15 labs)**
+**Weeks 17–18 · about 24 hours (9 reading, 15 labs)**
 
 ## Why this module
 

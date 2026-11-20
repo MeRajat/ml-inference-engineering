@@ -1,6 +1,6 @@
 # Module 6 — Real-time, streaming and audio inference
 
-**Weeks 13–14 · about 24 hours (9 reading, 15 labs)**
+**Weeks 15–16 · about 24 hours (9 reading, 15 labs)**
 
 ## Why this module
 

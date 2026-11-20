@@ -4,7 +4,7 @@ A self-study course for senior ML engineers who want to specialise in inference:
 taking a research checkpoint to a production endpoint that is fast, cheap and
 reliable under real traffic.
 
-**18 weeks · 10–12 hours a week · about two thirds hands-on**
+**20 weeks · 10–12 hours a week · about two thirds hands-on**
 
 The course is a curated path through public material (books, university
 lectures, papers, talks, source code and documentation) with labs that each end
@@ -26,13 +26,14 @@ of scope.
 |---|---|---|---|---|
 | 0 | [Orientation and setup](modules/00-orientation.md) | before week 1 | 3–4 | A working environment and GPU access |
 | 1 | [Inference fundamentals and performance mental models](modules/01-inference-fundamentals.md) | 1–2 | 22 | Predicted against measured tokens per second, within about 30% |
-| 2 | [Benchmarking, profiling and observability](modules/02-benchmarking-and-observability.md) | 3 | 12 | A load-test harness and dashboard you reuse all course |
-| 3 | [Serving engines and LLM inference systems](modules/03-serving-engines.md) | 4–6 | 36 | Two engines benchmarked and explained from their source |
-| 4 | [Model-level optimization](modules/04-model-optimization.md) | 7–9 | 36 | A speed-against-quality Pareto report |
-| 5 | [GPU programming and custom kernels](modules/05-gpu-programming-and-kernels.md) | 10–12 | 36 | A custom kernel, profiled and integrated with PyTorch |
-| 6 | [Real-time, streaming and audio inference](modules/06-realtime-streaming-and-audio.md) | 13–14 | 24 | A streaming speech service with tail-latency numbers |
-| 7 | [Production scale and operations](modules/07-production-scale-and-operations.md) | 15–16 | 24 | Autoscaling, cache-aware routing and an automatic rollback |
-| 8 | [Capstone](capstone/README.md) | 17–18 | 24 | A public project and write-up |
+| 1B | [Transformer internals and architectural optimizations](modules/01b-transformer-architecture.md) | 3–4 | 24 | A GPT-2 block converted to a modern one, with the cost of each change measured |
+| 2 | [Benchmarking, profiling and observability](modules/02-benchmarking-and-observability.md) | 5 | 12 | A load-test harness and dashboard you reuse all course |
+| 3 | [Serving engines and LLM inference systems](modules/03-serving-engines.md) | 6–8 | 36 | Two engines benchmarked and explained from their source |
+| 4 | [Model-level optimization](modules/04-model-optimization.md) | 9–11 | 36 | A speed-against-quality Pareto report |
+| 5 | [GPU programming and custom kernels](modules/05-gpu-programming-and-kernels.md) | 12–14 | 36 | A custom kernel, profiled and integrated with PyTorch |
+| 6 | [Real-time, streaming and audio inference](modules/06-realtime-streaming-and-audio.md) | 15–16 | 24 | A streaming speech service with tail-latency numbers |
+| 7 | [Production scale and operations](modules/07-production-scale-and-operations.md) | 17–18 | 24 | Autoscaling, cache-aware routing and an automatic rollback |
+| 8 | [Capstone](capstone/README.md) | 19–20 | 24 | A public project and write-up |
 
 Then: [turning the course into a job](career/README.md).
 
@@ -69,8 +70,8 @@ module says which subset is the minimum.
 | If your goal is | Do |
 |---|---|
 | Deploy and operate models (platform role), 10 weeks | Modules 1, 2, 3, 7, then capstone option B |
-| Voice and real-time roles, 14 weeks | Modules 1, 2, 3, 4, 6, then capstone option A |
-| Performance and kernel work, 12 weeks | Modules 1, 2, 4, 5, plus an upstream performance contribution |
+| Voice and real-time roles, 16 weeks | Modules 1, 1B, 2, 3, 4, 6, then capstone option A |
+| Performance and kernel work, 14 weeks | Modules 1, 1B, 2, 4, 5, plus an upstream performance contribution |
 
 ## About the resources
 

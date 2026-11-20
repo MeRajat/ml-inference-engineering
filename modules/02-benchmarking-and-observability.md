@@ -1,6 +1,6 @@
 # Module 2 — Benchmarking, profiling and observability
 
-**Week 3 · about 12 hours (5 reading, 7 labs)**
+**Week 5 · about 12 hours (5 reading, 7 labs)**
 
 ## Why this module comes early
 

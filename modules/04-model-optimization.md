@@ -1,6 +1,6 @@
 # Module 4 — Model-level optimization
 
-**Weeks 7–9 · about 36 hours (14 reading and lectures, 22 labs)**
+**Weeks 9–11 · about 36 hours (14 reading and lectures, 22 labs)**
 
 ## Why this module
 
